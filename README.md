@@ -11,6 +11,6 @@ You can use him as an introduction form when giving gifts to your girlfriend.
 
 # Thank
 
-Thanks for the big guy's structure creation
+Thanks to the author for constructing ideas
 
 > https://codepen.io/cassidoo/pen/yLaVYbK
