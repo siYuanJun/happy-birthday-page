@@ -2,8 +2,8 @@
 
 <h2 style="text-align:center">Simple love</h3>
 
-![](https://i.loli.net/2020/12/18/snIeUvLEM32hQ6a.jpg)
-![](https://i.loli.net/2020/12/18/EYQcujG1XLClmOJ.jpg)
+![image](https://i.loli.net/2020/12/18/snIeUvLEM32hQ6a.jpg)
+![image](https://i.loli.net/2020/12/18/EYQcujG1XLClmOJ.jpg)
 
 
 # Direction
